@@ -1,0 +1,109 @@
+CODE SAMPLE COVER PAGE
+
+Applicant: Arjun Kumar
+Position: Data Scientist (Reference No: RAD_NYC_DAS_6412)
+Date: November 25, 2025
+
+OVERVIEW OF CODE SAMPLE
+
+This code sample demonstrates my capabilities in investigative data analysis, anomaly detection, and 
+ETL pipeline development—core competencies required for the OAG Data Scientist position. The sample 
+includes three complementary components that mirror the duties outlined in the job description:
+
+1. INVESTIGATIVE DATA ANALYSIS & ANOMALY DETECTION
+   - Demonstrates testing legal/investigative hypotheses using statistical methods
+   - Shows anomaly detection techniques applicable to detecting deceptive practices
+   - Includes uncertainty quantification for defensible findings
+
+2. DATA RELIABILITY & ETL PIPELINE
+   - Illustrates data validation, cleaning, and reliability testing
+   - Shows handling of multi-source datasets with quality issues
+   - Demonstrates reproducible, audit-ready data processing
+
+3. COMMUNICATION & VISUALIZATION
+   - Provides clear documentation for non-technical audiences
+   - Includes visualizations suitable for reports and presentations
+   - Explains methodology, limitations, and uncertainty
+
+RELATION TO MY EXPERIENCE
+
+This code sample directly relates to my professional work:
+
+• At Alchromist LLC: Built validation checks for confidential datasets, performed anomaly analysis,
+  and produced narrative reports explaining uncertainty—similar techniques shown in this sample.
+
+• At Rain Bird Corporation: Reconciled 150K+ records using Python/SQL and performed hypothesis 
+  testing to identify root causes—data reliability methods demonstrated here.
+
+• At Origins Tribe: Built scalable ETL pipelines and implemented anomaly detection for early risk
+  identification—pipeline architecture reflected in this sample.
+
+TECHNOLOGIES DEMONSTRATED
+
+The code sample showcases required and preferred skills from the job posting:
+- Python (Pandas, NumPy, Scikit-learn)
+- SQL for data extraction and transformation
+- Statistical analysis (hypothesis testing, GLMs, anomaly detection)
+- Data visualization (Matplotlib, Plotly)
+- Git/GitHub for version control
+- Linux command line familiarity
+- Reproducible research methods
+- Clear communication to non-technical audiences
+
+SAMPLE STRUCTURE
+
+The repository contains:
+├── README.md - Overview and instructions
+├── data/ - Sample datasets (simulated for confidentiality)
+├── notebooks/
+│   ├── 01_data_etl_validation.ipynb - ETL pipeline with reliability checks
+│   ├── 02_investigative_analysis.ipynb - Statistical investigation & anomaly detection
+│   └── 03_visualization_reporting.ipynb - Communication-focused outputs
+├── src/
+│   ├── data_validation.py - Reusable validation functions
+│   ├── anomaly_detection.py - Detection algorithms
+│   └── utils.py - Helper functions
+└── requirements.txt - Dependencies
+
+APPLICABILITY TO OAG WORK
+
+This sample demonstrates my ability to:
+- Develop and test hypotheses using data (e.g., detecting deceptive lending practices)
+- Acquire and validate data from multiple sources
+- Test data for reliability and identify quality issues
+- Apply appropriate statistical methodologies
+- Quantify uncertainty in analytical findings
+- Communicate findings clearly to legal teams
+- Develop predictive models to detect anomalies
+- Create audit-ready, defensible analysis
+
+The methodologies shown are directly applicable to OAG investigations such as:
+- Detecting anomalies in financial transactions (auto lender case)
+- Analyzing large-scale datasets for patterns (FCC fake comments)
+- Statistical validation for court submissions
+- Multi-source data reconciliation for investigations
+
+CONFIDENTIALITY NOTE
+
+To respect confidentiality agreements with previous employers, this sample uses simulated data that
+mirrors the complexity and structure of real datasets I've worked with, but contains no actual
+confidential information.
+
+REAL-WORLD APPLICATION
+
+The techniques demonstrated in this code sample are based on actual work performed during my 
+internship at Rain Bird Corporation (June 2025 - August 2025), where I:
+
+• Reconciled 150K+ records from fragmented systems using Python/SQL, reducing discrepancies by 27%
+• Built data validation checks to identify inconsistencies and produce audit-ready datasets
+• Performed hypothesis testing and statistical diagnostics to determine significance of operational issues
+• Created automated ELT pipelines that decreased reporting time by 42%
+• Developed clear summaries and dashboards for non-technical operational teams
+
+This sample recreates similar analytical approaches using simulated data to demonstrate the 
+transferability of these skills to OAG's investigative work.
+
+GitHub Repository: github.com/Arjun-commit/oag-investigative-analytics-sample
+
+I am prepared to discuss the technical details, methodologies, and how these skills transfer to 
+OAG's investigative work during an interview.
