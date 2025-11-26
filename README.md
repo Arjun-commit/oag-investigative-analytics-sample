@@ -175,7 +175,6 @@ While not shown in this sample due to length constraints, I can also demonstrate
 **Arjun Kumar**  
 Brooklyn, NY  
 Email: arjhari95@gmail.com  
-Phone: (520) 232-4452  
 LinkedIn: linkedin.com/in/arjun-kumar-cse  
 GitHub: github.com/Arjun-commit
 
